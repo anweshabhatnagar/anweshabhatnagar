@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Anwesha 👋
 
-<!--
-**anweshabhatnagar/anweshabhatnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering student at Bennett University
 
-Here are some ideas to get you started:
+💻 Currently learning Python, Web Development, and core Computer Science concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Building my skills through projects, academic labs, and hands-on practice.
+
+## 🛠️ Currently Learning
+
+- Python
+- HTML & CSS
+- Git & GitHub
+- Digital Logic Design
+- Verilog
+- Problem Solving
+
+## 🎯 Goals
+
+- Build strong programming fundamentals
+- Create meaningful projects
+- Explore software development
+- Gain practical experience through internships
+
+## 📫 Connect with me
+
+- LinkedIn: www.linkedin.com/in/anweshabhatnagar
